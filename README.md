@@ -12,10 +12,15 @@ ao separar diferentes tipos de dados e operações entre as fitas.
 
 ## LINGUAGENS IMPLEMENTADAS 
 1 a) L = {a^i b^j c^k | i, j, k ∈ N e i × j = k}
+
 1 b) L = {a^n b^m c^p d^q | n < m, m̸ = p + q e p > q}
+
 2 a) L = {xyxRyR | x, y ∈ {a, b}∗} (xR é o reverso da cadeia x e yR é o reverso da cadeia y)
+
 2 b) L = {a^i b^j c^k | i, j, k ∈ N e i^j = k}
+
 3 a) Algoritmo de Euclides para o Máximo Divisor Comum
+
 3 b) Fatorial de n
 
 ## EXPLICAÇÃO DO ALGORITMOS IMPLEMENTADOS
